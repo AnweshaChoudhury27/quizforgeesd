@@ -1,0 +1,6 @@
+{
+  "name": "QuizForge",
+  "description": "Transform PDF study notes into interactive MCQ quizzes powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

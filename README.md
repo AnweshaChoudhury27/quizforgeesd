@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/QuizForge-ESD-blue?style=for-the-badge" alt="QuizForge">
 
-### 🎯 Interactive Quiz Platform for Engineering Skills Development (ESD)
+### 🎯 Interactive Quiz Platform for Entrepreneurship Skills Development (ESD)
 
 🌐 **Live Demo:** https://quizforgeesd.vercel.app/
 

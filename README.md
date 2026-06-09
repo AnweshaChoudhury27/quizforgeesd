@@ -14,7 +14,7 @@
 
 ## 📖 Overview
 
-QuizForge ESD is an interactive web-based quiz platform designed to help students prepare for Engineering Skills Development (ESD) assessments through engaging quizzes, instant feedback, and performance evaluation.
+QuizForge ESD is an interactive web-based quiz platform designed to help students prepare for Entrepreneurship Skills Development (ESD) assessments through engaging quizzes, instant feedback, and performance evaluation.
 
 The platform offers a simple, responsive, and user-friendly interface that enables learners to test their knowledge and improve their understanding of ESD concepts.
 
